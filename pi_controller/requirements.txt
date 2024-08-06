@@ -1,0 +1,3 @@
+pyserial
+bleak
+opencv-python-headless
